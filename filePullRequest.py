@@ -5,3 +5,5 @@ while numero > 0:
   else:
     print(f"{numero} é um número ímpar.")
   numero -= 1
+
+print("Numero ao final da execução:", numero)
